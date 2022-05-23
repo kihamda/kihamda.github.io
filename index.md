@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Profle
 
-You can use the [editor on GitHub](https://github.com/kihamda/kihamda.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Twitterで色々つぶやいている大阪の学生です。
+主にプロセカをしていますが、他にもオーディオ・電気回路・ネットワークなど、電気系のことにも興味があります。
+Youtubeにもチャンネルがあります(使って無いが)
+色々謎な人ですが何卒宜しくお願いします。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Data
+自分の様々なデータです。随時追加します。
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+誕生日　：12/29
+推し　　：鳳 えむ
+座右の銘：何もやらなかったら何も起きないが、何かやれば良くも悪くも何か起きる。
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### SNS
 
-### Jekyll Themes
+[Twitter @kuawse580](https://twitter.com/kuawse580)
+[Youtube kihamda](https://www.youtube.com/channel/UCC7lG2-qD9IMys4GhhKVTWQ)
+[Instagram kihamda](https://www.instagram.com/kihamda/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kihamda/kihamda.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Having trouble?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+何かあればTwitterのDMまでどうぞ
