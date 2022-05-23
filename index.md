@@ -1,4 +1,4 @@
-## Profle
+## Profile
 
 Twitterで色々つぶやいている大阪の学生です。
 
